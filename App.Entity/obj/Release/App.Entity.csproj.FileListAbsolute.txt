@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\slnGloaithNational\App.Entity\bin\Release\App.Entity.dll
+C:\Users\Asus\Desktop\slnGloaithNational\App.Entity\bin\Release\App.Entity.pdb
+C:\Users\Asus\Desktop\slnGloaithNational\App.Entity\obj\Release\App.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\slnGloaithNational\App.Entity\obj\Release\App.Entity.dll
+C:\Users\Asus\Desktop\slnGloaithNational\App.Entity\obj\Release\App.Entity.pdb

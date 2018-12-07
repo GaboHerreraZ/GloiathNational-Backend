@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\slnGloaithNational\App.Utility\bin\Release\App.Utility.dll
+C:\Users\Asus\Desktop\slnGloaithNational\App.Utility\bin\Release\App.Utility.pdb
+C:\Users\Asus\Desktop\slnGloaithNational\App.Utility\obj\Release\App.Utility.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\slnGloaithNational\App.Utility\obj\Release\App.Utility.dll
+C:\Users\Asus\Desktop\slnGloaithNational\App.Utility\obj\Release\App.Utility.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\slnGloaithNational\App.Message\bin\Debug\App.Message.dll
+C:\Users\Asus\Desktop\slnGloaithNational\App.Message\bin\Debug\App.Message.pdb
+C:\Users\Asus\Desktop\slnGloaithNational\App.Message\obj\Debug\App.Message.MessageResource.resources
+C:\Users\Asus\Desktop\slnGloaithNational\App.Message\obj\Debug\App.Message.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\slnGloaithNational\App.Message\obj\Debug\App.Message.dll
+C:\Users\Asus\Desktop\slnGloaithNational\App.Message\obj\Debug\App.Message.pdb

@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\slnGloaithNational\App.Logger\bin\Debug\App.Logger.dll
+C:\Users\Asus\Desktop\slnGloaithNational\App.Logger\bin\Debug\App.Logger.pdb
+C:\Users\Asus\Desktop\slnGloaithNational\App.Logger\bin\Debug\App.Exceptions.dll
+C:\Users\Asus\Desktop\slnGloaithNational\App.Logger\bin\Debug\log4net.dll
+C:\Users\Asus\Desktop\slnGloaithNational\App.Logger\bin\Debug\App.Exceptions.pdb
+C:\Users\Asus\Desktop\slnGloaithNational\App.Logger\bin\Debug\log4net.xml
+C:\Users\Asus\Desktop\slnGloaithNational\App.Logger\obj\Debug\App.Logger.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\slnGloaithNational\App.Logger\obj\Debug\App.Logger.dll
+C:\Users\Asus\Desktop\slnGloaithNational\App.Logger\obj\Debug\App.Logger.pdb
